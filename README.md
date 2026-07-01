@@ -1,7 +1,34 @@
 # Winnex Enterprise Stack
 
-> **Trust Infrastructure for Regulated AI.**
-> Infrastructure de Confianca para IA Regulamentada.
+> **Research Foundation for the Regulated AI Market.**
+> Estamos construindo as fundacoes de um mercado que ainda nem existe.
+
+[![License: BSL 1.1](https://img.shields.io/badge/License-BSL%201.1-yellow)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21107295.svg)](https://doi.org/10.5281/zenodo.21107295)
+[![Contact](https://img.shields.io/badge/Contact-pay@winnex.ai-blue)](mailto:pay@winnex.ai)
+
+---
+
+## ⚠️ Important: What This Represents
+
+This repository is a **market-scoping document and product blueprint**, not a finished product. It reflects our vision for what regulated enterprise AI search should look like, built on 2+ years of mathematical research (11 Zenodo records, 15+ public benchmarks, validated zero-violation bounds on SIFT-1M).
+
+**The code that exists today** -- the Madhava audit engine (C++), the smart contracts (Solidity), the integration layers (Python) -- is published in our other repositories. The enterprise compliance dashboard, SOC2 certification package, and production integrations described here are **under development and planned**, not yet delivered.
+
+We are sharing this publicly because:
+1. **We are seeking strategic partners and investors** to bring this vision to production
+2. **We believe in radical transparency** -- investors should see exactly what exists and what doesn't
+3. **The regulated AI market is in its infancy** -- the foundations must be built before the market arrives
+
+### Our Thesis
+
+> The regulated enterprise AI market (EU AI Act, LGPD, HIPAA, Basel III) is a multi-billion-dollar opportunity that does not exist today. It will emerge over the next 3-5 years as regulators begin enforcing AI transparency requirements. We have built the mathematical foundations. We are now building the commercial layer. We are looking for partners to build it with us.
+
+---
+
+## The Market Thesis
+
+Enterprise AI systems in regulated environments face a fundamental requirement that no current technology satisfies: **the ability to prove, mathematically, that every search decision was correct.**
 
 [![License: BSL 1.1](https://img.shields.io/badge/License-BSL%201.1-yellow)](LICENSE)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21107295.svg)](https://doi.org/10.5281/zenodo.21107295)
@@ -178,22 +205,23 @@ Certified documentation for regulatory submission.
 
 ---
 
-## Pricing
+## Pricing (Aspirational — Under Validation)
 
-| Tier | Annual License | Use Case |
-|------|---------------|----------|
-| **Audit Engine** (BSL 1.1) | Open source | Self-service, non-production |
-| **Enterprise Starter** | R$ 500K/year | Single department, up to 3 data sources |
-| **Enterprise Growth** | R$ 1M/year | Multi-department, up to 10 data sources |
-| **Enterprise Premium** | R$ 2M/year | Organization-wide, unlimited sources, SLA |
-| **Custom** | Negotiable | Fully customized deployment, certifications |
+The pricing below represents our **target model based on market research**, not prices we can charge today. We need certifications (SOC2, ISO 27001), reference customers, and SLA track record to validate these numbers.
 
-### What Enterprise Pricing Includes
-- **Mathematical guarantee**: Zero bound violations. If violated, full refund of license fee.
-- **Compliance dashboard**: Real-time monitoring and regulatory reporting
-- **Integration support**: Any vector database or data source
-- **Certification package**: SOC2 Type II, ISO 27001 support
-- **SLA**: 99.9% uptime, 4-hour response, dedicated engineering
+| Tier | Target Annual License | Prerequisites for Validation |
+|------|---------------------|------------------------------|
+| **Audit Engine** (BSL 1.1) | Open source | -- |
+| **Enterprise Starter** | R$ 500K/year | 3 reference customers, SOC2 certification |
+| **Enterprise Growth** | R$ 1M/year | 10 customers, ISO 27001, AI Act conformity |
+| **Enterprise Premium** | R$ 2M/year | 25+ customers, full certification suite |
+| **Custom** | Negotiable | Enterprise agreements |
+
+### What Target Pricing Would Include (Once Developed)
+- **Mathematical guarantee**: Zero bound violations (already proven in research)
+- **Compliance dashboard**: Under development
+- **Certification package**: SOC2 Type II, ISO 27001 — planned, not yet obtained
+- **SLA**: 99.9% uptime — standard target for enterprise
 - **Training**: On-site team training and certification
 
 ---
@@ -246,6 +274,28 @@ Winnex AI was built over 18 months with zero external capital. The output:
 **Organization**: Winnex Brasil Solucoes Empresariais LTDA - ME  
 **CNPJ**: 58.364.637/0001-47 | Brazil  
 **Contact**: pay@winnex.ai
+
+---
+
+## For Investors and Strategic Partners
+
+Winnex AI was built over **2+ years with zero external capital**. We publish our research and code publicly for three reasons:
+
+1. **Transparency**: Every mathematical claim can be independently verified. 11 Zenodo records, 15+ Kaggle benchmarks, zero bound violations across 254M+ query-vector pairs.
+2. **IP Protection**: The core algorithm (Cauchy-Schwarz proof engine) is visible for study under BSL 1.1 but requires a commercial license for production use.
+3. **Market Timing**: The regulated enterprise AI market (EU AI Act, LGPD enforcement, HIPAA AI guidance) is in its infancy. We are building the foundations now so the infrastructure is ready when the market arrives.
+
+### What We Are Seeking
+
+| Need | Why |
+|------|-----|
+| **Strategic investors** | To fund certifications (SOC2, ISO 27001), enterprise dashboard development, and go-to-market |
+| **Design partners (3-5)** | Enterprise clients willing to deploy the research-grade stack and help shape the product |
+| **Channel partners** | Integration with compliance platforms (OneTrust, TrustArc) and Big Four consulting firms |
+
+**What you get:** Exclusive access to the full stack, priority roadmap influence, and equity in a company building the mathematical trust layer for regulated AI.
+
+**Read the full thesis:** [Open Letter to Investors](https://doi.org/10.5281/zenodo.21106637) (7 pages)
 
 ---
 
