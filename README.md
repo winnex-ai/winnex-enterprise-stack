@@ -344,6 +344,8 @@ Zenodo: https://doi.org/10.5281/zenodo.21106604
 
 ---
 
+
+> **Benchmark:** [Kaggle: Winnex Definitive Benchmark v1.0](https://www.kaggle.com/code/kleniopadilha/winnex-definitive-benchmark-v1-0) — SIFT-1M, 16 métodos, NDCG=1.000, zero bound violations.
 ## 🏗️ Project History & Transparency Note
 
 ### When This Was Built
